@@ -1,0 +1,7 @@
+19,0,2,160,260,1,1,160,2,1,2,Muhammad Talha,Heart Disease,55.60000000000001
+Ahmad,No Heart Disease,21.6
+Muhammad,[[23 0 2 130 200 1 1 160 1 2 1 'Muhammad' 'No Heart Disease' 16.8]],No Heart Disease,16.8
+akram,[65 0 1 150 260 1 1 170 1 2 1 'akram' 'No Heart Disease' 24.6],No Heart Disease,24.6
+Imran khan,23,1,2,150,260,1,2,160,1,0.9999999999999999,2,Heart Disease Detected,50.6
+kamran,28,1,2,160,260,0,2,160,1,1.0,2,Heart Disease Detected,50.6
+Ahmad Ali,35,1,2,150,200,1,2,160,1,1.0,2,No Heart Disease,37.0
