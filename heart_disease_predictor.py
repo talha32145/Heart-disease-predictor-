@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score
 import google.generativeai as genai
 
 
-genai.configure(api_key="AIzaSyAjxcWvjDxmvyy_bJWh6z54Vgusr3yMh-Y")
+genai.configure(api_key="AIzaSyBWsDCig1OZJBoUgwYnyjM_oTQeztoPXGM")
 
 
 
